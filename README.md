@@ -81,4 +81,3 @@
 
 <br>
 <img src="assets/gif/blueline.gif">
-<br>
