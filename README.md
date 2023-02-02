@@ -15,7 +15,7 @@
 - Portfolio [Here.](https://sairevanth0007.github.io/portfolio/)
 - A passionate Self-taught Full-Stack Developer.
 - Currently trying to learning Maths and AI ML. 
-- This is [my resume](assets/pdf/M%20%20Sai%20Revanth%20Resume.pdf), Do have a look at it.
+- This is [my resume](assets/pdf/M%20%20Sai%20Revanth.pdf), Do have a look at it.
 
 <br><br>
 
